@@ -4,7 +4,7 @@ header, nav, main, footer { display: block; }
 h1 { 
 	background-color: #3EA055; 
 	color: #F0F0F0; 
-	background-image: url(skyline.jpg); 
+	background-image: url(skyline.JPG); 
 	background-repeat: no-repeat;
 	background-position: center;
 	text-align: center;
