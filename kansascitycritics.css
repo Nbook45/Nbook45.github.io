@@ -124,6 +124,11 @@ form { padding-left: 100px; }
     display: table-cell;
     vertical-align: middle;
 }
+.outside span{
+	height: 40px;
+	padding-left: 100px;
+	vertical-align: middle;
+}
 video { vertical-align: middle; margin-left: 350px; }
 
 img { border-style: none; background-size: 100%; margin-left: 30px; }
