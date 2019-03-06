@@ -1,0 +1,135 @@
+* { box-sizing: border-box; }
+header, nav, main, footer { display: block; }
+
+h1 { 
+	background-color: #3EA055; 
+	color: #F0F0F0; 
+	background-image: url(skyline.jpg); 
+	background-repeat: no-repeat;
+	background-position: center;
+	text-align: center;
+	}
+body { 
+	background-color: #5280C5; 
+	color: #000000; 
+	font-family: Verdana, Arial, sans-serif; 
+	background-image: url(background.jpg);
+	}
+table { margin: 1em; border: 3px #00008B bold; border-collapse: collapse;  }
+td, tr { padding: 0.5em; border: 1px solid #00008B; }
+
+h1 { 
+	line-height: 250%; 
+	margin-bottom: 0;
+	font-size: 3em; padding: 0.2em; text-shadow: 3px 3px 3px #CCCCCC;
+
+}
+nav { 
+font-weight: bold; padding: 5px; float: left; width: 180px;}
+
+nav ul {list-style-type: none;}
+nav a {text-decoration: none; }
+nav a:link { color: #000066; }
+nav a:visited { color: #5280C5; }
+nav a:hover { color: #3262A3; }
+	}
+main {
+	text-align: top; vertical-align: top; color: #000000; margin-left: 400px; padding-left: 2em; padding-right: 2em; background-size: 100%; background-color: #FFFFFF; border: 1px solid #AEC3E3; 
+	}
+dt { 
+	color: #5280C5; line-height: 1.1em; font-weight: bold; font-family: Times New Roman; 
+	}
+.category { 
+	font-weight: bold; color: #5280C5; font-family: Georgia, "Times New Roman", serif; text-shadow: 1px 1px #667;
+	}
+.wof { background: url( "worldsoffun.jpg" ) no-repeat;
+    display: inline-block;
+    background-size: 300px 300px; 
+    height: 400px; 
+	padding-left: 50px;
+	margin-left: 50px;
+}
+.wof span {
+    height: 40px;
+	padding-left: 300px;
+    display: table-cell;
+    vertical-align: middle;
+	
+}
+.home { background: url( "adventure.jpg" ) no-repeat;
+    display: inline-block;
+    background-size: 300px 300px; 
+    height: 400px; 
+	padding-left: 200px;
+	margin-left: 50px;
+}
+.home span {
+    height: 40px;
+	padding-left: 100px;
+    display: table-cell;
+    vertical-align: middle;
+}
+.food { background: url( "mudbugs.jpg" ) no-repeat;
+    display: inline-block;
+    background-size: 300px 300px; 
+    height: 400px; 
+	padding-left: 200px;
+	margin-left: 50px;
+}
+.food span {
+    height: 40px;
+	padding-left: 100px;
+    display: table-cell;
+    vertical-align: middle;
+}
+
+.film { background: url( "harrypottermovie.jpg" ) no-repeat;
+    display: inline-block;
+    background-size: 300px 300px; 
+    height: 400px; 
+	padding-left: 200px;
+	margin-left: 50px;
+}
+.film span {
+    height: 40px;
+	padding-left: 100px;
+    display: table-cell;
+    vertical-align: middle;
+}
+.literature { background: url( "hpcc.jpg" ) no-repeat;
+    display: inline-block;
+    background-size: 300px 300px; 
+    height: 400px; 
+	padding-left: 300px;
+	margin-left: 50px;
+}
+.literature span {
+    height: 40px;
+	padding-left: 100px;
+    display: table-cell;
+    vertical-align: middle;
+}
+form { padding-left: 100px; }
+.contact { background: url( "contact.png" ) no-repeat;
+    display: inline-block;
+    background-size: 300px 300px; 
+    height: 400px; 
+	padding-left: 300px;
+	margin-left: 50px;
+}
+.contact span {
+    height: 40px;
+	padding-left: 100px;
+    display: table-cell;
+    vertical-align: middle;
+}
+
+
+img { border-style: none; background-size: 100%; margin-left: 30px; }
+dt {font-weight: bold; font-size: 1.1em; color: #5280C5; font-family: Georgia, "Times New Roman", serif; }
+#wrapper {
+	min-width: 700px; margin-right: auto; margin-left: auto; background-color: #F0F0F0; width: 95%; margin-bottom: 5px; height: 900px;
+}
+footer { 
+	font-size: .70em; font-style: italic; padding: 1em; margin-bottom: 3px; background-color: #AEC3E3; text-align: center;
+	}
