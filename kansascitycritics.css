@@ -16,7 +16,7 @@ body {
 	background-image: url(background.jpg);
 	}
 table { margin: 1em; border-collapse: collapse;  }
-td, tr { padding: 0.5em; border: 1px solid #00008B; }
+td, tr { padding: 0.5em; }
 
 h1 { 
 	line-height: 250%; 
