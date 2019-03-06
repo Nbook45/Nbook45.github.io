@@ -15,7 +15,7 @@ body {
 	font-family: Verdana, Arial, sans-serif; 
 	background-image: url(background.jpg);
 	}
-table { margin: 1em; border: 3px #00008B bold; border-collapse: collapse;  }
+table { margin: 1em; border-collapse: collapse;  }
 td, tr { padding: 0.5em; border: 1px solid #00008B; }
 
 h1 { 
