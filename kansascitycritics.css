@@ -16,7 +16,7 @@ body {
 	background-image: url(background.jpg);
 	}
 table { margin: 1em; border-collapse: collapse; border: 1px solid #00008B; }
-td {border: 1px solid #00008B; padding: 0.5em; } 
+td {border: 1px #00008B; padding: 0.5em; } 
 tr { padding: 0.5em; border: 1px solid #00008B;  }
 
 h1 { 
