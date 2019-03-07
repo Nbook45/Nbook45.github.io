@@ -135,6 +135,7 @@ video { vertical-align: middle; margin-left: 350px; }
 	height: 80px;
 	padding-left: 200px;
     display: table-cell;
+	vertical-align: top
 }
 
 img { border-style: none; background-size: 100%; margin-left: 30px; }
