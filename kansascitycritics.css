@@ -132,10 +132,9 @@ form { padding-left: 100px; }
 video { vertical-align: middle; margin-left: 350px; }
 
 .wedding span{
-	height: 40px;
+	height: 80px;
 	padding-left: 100px;
     display: table-cell;
-    vertical-align: middle;
 }
 
 img { border-style: none; background-size: 100%; margin-left: 30px; }
