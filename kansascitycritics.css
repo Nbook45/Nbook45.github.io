@@ -103,12 +103,13 @@ dt {
     height: 400px; 
 	padding-left: 300px;
 	margin-left: 50px;
+	vertical-align: top;
 }
 .literature span {
     height: 40px;
 	padding-left: 100px;
     display: table-cell;
-    vertical-align: middle;
+    vertical-align: top;
 }
 form { padding-left: 100px; }
 .contact { background: url( "contact.png" ) no-repeat;
